@@ -2,3 +2,4 @@ this is from windows
 this is from linux
 new line
 feature-2
+feature-3
