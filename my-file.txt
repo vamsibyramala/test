@@ -5,3 +5,4 @@ feature-2
 feature-3
 this is a new line
 this is line one
+this is for latest feature
